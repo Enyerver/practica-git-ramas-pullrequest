@@ -1,3 +1,3 @@
 # practica-git-ramas-pullrequest
 
-# what are you going to do??
+# Im not going to do nothing at all
